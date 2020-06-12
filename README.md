@@ -10,6 +10,5 @@ You can even use both at the same time but that may heat up your machine a bit.
 
 ![](image.png)
 <br /> <br /> <br /> <br />
-Detecting me as a person even after I hide my face
 <br /> <br />
 
